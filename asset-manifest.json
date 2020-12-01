@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/expertsForm/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/expertsForm/static/js/main.62ea2320.chunk.js",
+    "main.js.map": "/expertsForm/static/js/main.62ea2320.chunk.js.map",
+    "runtime-main.js": "/expertsForm/static/js/runtime-main.037cce0a.js",
+    "runtime-main.js.map": "/expertsForm/static/js/runtime-main.037cce0a.js.map",
+    "static/js/2.9415cb00.chunk.js": "/expertsForm/static/js/2.9415cb00.chunk.js",
+    "static/js/2.9415cb00.chunk.js.map": "/expertsForm/static/js/2.9415cb00.chunk.js.map",
+    "static/js/3.ce715449.chunk.js": "/expertsForm/static/js/3.ce715449.chunk.js",
+    "static/js/3.ce715449.chunk.js.map": "/expertsForm/static/js/3.ce715449.chunk.js.map",
+    "index.html": "/expertsForm/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/expertsForm/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.9415cb00.chunk.js.LICENSE.txt": "/expertsForm/static/js/2.9415cb00.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/expertsForm/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.037cce0a.js",
+    "static/js/2.9415cb00.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.62ea2320.chunk.js"
+  ]
+}
